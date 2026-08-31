@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/JAVA SCRIPT/React Native
 - 📫 How to reach me jkrueger.dev@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I can not speak a very good English.
+- ⚡ Fun fact: My English is very bad!
 
 <!---
 Jonaskar-64Bit/Jonaskar-64Bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
