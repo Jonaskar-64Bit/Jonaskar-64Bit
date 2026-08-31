@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonaskar-64Bit
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML/CSS/JAVA SCRIPT
-- 📫 How to reach me jkrueger.dev@gmx-topmail.de
+- 🌱 I’m currently learning HTML/CSS/JAVA SCRIPT/React Native
+- 📫 How to reach me jkrueger.dev@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can not speak a very good English.
 
